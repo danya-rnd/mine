@@ -1,0 +1,1 @@
+java -Xmx2048M -Xms512M -jar server.jar
